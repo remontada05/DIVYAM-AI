@@ -24,3 +24,7 @@ Divyam AI is a production-ready medical AI system for **intracranial hemorrhage 
 | F1-Score (weighted) | **85%** |
 
 **Confusion Matrix (422 test CT Scans):**
+**SAMPLE OUTPUTS**:
+<img width="1328" height="743" alt="image" src="https://github.com/user-attachments/assets/0a5af7b5-e1d0-4cad-a78c-edf465df6f6b" />
+![WhatsApp Image 2025-12-02 at 9 46 16 PM](https://github.com/user-attachments/assets/aeef9ccd-8f26-4847-bb3e-735fb0acdb00)
+
